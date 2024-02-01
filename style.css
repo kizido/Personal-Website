@@ -330,6 +330,9 @@ section {
   font-size: 1.75rem;
   margin-bottom: 2rem;
 }
+.experience-sub-description {
+  margin-bottom: 1rem;
+}
 
 .experience-details-container {
   display: flex;
