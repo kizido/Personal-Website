@@ -16,14 +16,14 @@ Hi there! 👋 I'm Kieran, a passionate **full-stack developer** and recent grad
 - **React JS**:    ⭐⭐⭐⭐ Intermediate  
 - **JavaScript**:  ⭐⭐⭐⭐ Intermediate  
 - **TypeScript**:  ⭐⭐⭐⭐ Intermediate  
-- **Java**:        ⭐⭐⭐⭐ Familiar  
+- **Java**:        ⭐⭐⭐ Familiar  
 
 ### 🔧 **Backend Development**  
 - **Node JS**:     ⭐⭐⭐⭐ Intermediate  
 - **Express JS**:  ⭐⭐⭐⭐ Intermediate  
 - **MongoDB**:     ⭐⭐⭐⭐ Intermediate  
 - **PostgreSQL**:  ⭐⭐⭐⭐ Intermediate  
-- **Git**:         ⭐⭐⭐ Intermediate  
+- **Git**:         ⭐⭐⭐⭐ Intermediate  
 
 ---
 
