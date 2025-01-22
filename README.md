@@ -4,7 +4,7 @@
 🎓 **B.Sc. in Computer Science**  
 California State University, Long Beach  
 
-Hi there! 👋 I'm Kieran, a passionate **full-stack developer** and recent graduate. I love building projects that solve real-world problems using cutting-edge technologies. Thanks for stopping by—let's build something amazing together! 🚀  
+Hi there! 👋 I'm Kieran, a passionate **full-stack developer** and computer science graduate. I love building projects that solve real-world problems using cutting-edge technologies. Thanks for stopping by—let's build something amazing together! 🚀  
 
 ---
 
