@@ -11,19 +11,19 @@ Hi there! 👋 I'm Kieran, a passionate **full-stack developer** and recent grad
 ## 🛠️ Skills  
 
 ### 🌐 **Frontend Development**  
-- **HTML**: ⭐⭐⭐⭐⭐ Experienced  
-- **CSS**: ⭐⭐⭐⭐⭐ Experienced  
-- **React JS**: ⭐⭐⭐⭐ Intermediate  
-- **JavaScript**: ⭐⭐⭐⭐ Intermediate  
-- **TypeScript**: ⭐⭐⭐⭐ Intermediate  
-- **Java**: ⭐⭐⭐⭐ Familiar  
+- **HTML**:        ⭐⭐⭐⭐⭐ Experienced  
+- **CSS**:         ⭐⭐⭐⭐⭐ Experienced  
+- **React JS**:    ⭐⭐⭐⭐ Intermediate  
+- **JavaScript**:  ⭐⭐⭐⭐ Intermediate  
+- **TypeScript**:  ⭐⭐⭐⭐ Intermediate  
+- **Java**:        ⭐⭐⭐⭐ Familiar  
 
 ### 🔧 **Backend Development**  
-- **Node JS**: ⭐⭐⭐⭐ Intermediate  
-- **Express JS**: ⭐⭐⭐⭐ Intermediate  
-- **MongoDB**: ⭐⭐⭐⭐ Intermediate  
-- **PostgreSQL**: ⭐⭐⭐⭐ Intermediate  
-- **Git**: ⭐⭐⭐⭐ Intermediate  
+- **Node JS**:     ⭐⭐⭐⭐ Intermediate  
+- **Express JS**:  ⭐⭐⭐⭐ Intermediate  
+- **MongoDB**:     ⭐⭐⭐⭐ Intermediate  
+- **PostgreSQL**:  ⭐⭐⭐⭐ Intermediate  
+- **Git**:         ⭐⭐⭐ Intermediate  
 
 ---
 
